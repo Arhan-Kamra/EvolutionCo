@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/EvolutionCo/static/css/main.6cb18d6e.css",
+    "main.css": "/EvolutionCo/static/css/main.66ace68f.css",
     "main.js": "/EvolutionCo/static/js/main.39a40b60.js",
     "static/media/banner-bg.png": "/EvolutionCo/static/media/banner-bg.fa836a9a6bfa3dc1f229.png",
     "static/media/contact.png": "/EvolutionCo/static/media/contact.188008058f9957b95193.png",
@@ -24,11 +24,11 @@
     "index.html": "/EvolutionCo/index.html",
     "static/media/slick.woff": "/EvolutionCo/static/media/slick.295183786cd8a1389865.woff",
     "static/media/hamburger.svg": "/EvolutionCo/static/media/hamburger.334a9cabd10a03ab5f045a41882509df.svg",
-    "main.6cb18d6e.css.map": "/EvolutionCo/static/css/main.6cb18d6e.css.map",
+    "main.66ace68f.css.map": "/EvolutionCo/static/css/main.66ace68f.css.map",
     "main.39a40b60.js.map": "/EvolutionCo/static/js/main.39a40b60.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cb18d6e.css",
+    "static/css/main.66ace68f.css",
     "static/js/main.39a40b60.js"
   ]
 }
