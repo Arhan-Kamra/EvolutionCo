@@ -922,6 +922,7 @@ header a.hamburger-menu {
         align-items: center;
         height: 100%;
         margin-bottom: 0;
+        list-style: none;
     }
 }
 
