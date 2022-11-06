@@ -11,17 +11,15 @@ import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Initiatives from "./components/Initiatives";
 import Legislative from "./components/Legislative";
-import Search from "./components/Search";
 import SearchBar from "./components/SearchBar";
 import Sustainability from "./components/Sustainability";
 
 function App() {
   return (
-      <div>
+      <>
         
 
           <SearchBar />
-          <Search />
           <Header />
           <Banner />
           <Initiatives />
@@ -32,7 +30,7 @@ function App() {
           <Footer />
 
           
-    </div>
+    </>
   );
 }
 

@@ -89,6 +89,8 @@ body {
     top: 0;
     right: 62px;
     z-index: 1;
+    transform: translateX(0);
+    transition: all 300ms 0ms ease-out;
 }
 
 @media only screen and (max-width: 575.98px) {
@@ -100,7 +102,7 @@ body {
 .search form input[type=search] {
     height: 40px;
     padding-left: 16px;
-    display: none;
+    /* display: none; */
 }
 
 @media only screen and (max-width: 575.98px) {
@@ -1408,6 +1410,12 @@ footer .top_footer .row .right_section .form-container>a img {
     margin-left: 6px;
 }
 
+footer .top_footer .row .right_section .form-container .form_parent {
+    /* write your code here */
+    height: 392px;
+    overflow: hidden;
+}
+
 footer .top_footer .row .right_section .form-container form {
     display: flex;
     flex-direction: column;
@@ -1416,6 +1424,8 @@ footer .top_footer .row .right_section .form-container form {
     background-color: #1e2739;
     width: 400px;
     padding: 48px 32px 80px;
+    transform: translateY(0);
+    transition: all 300ms 0ms ease-out;
 }
 
 @media only screen and (max-width: 991.98px) {
