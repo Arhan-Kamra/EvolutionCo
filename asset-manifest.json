@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/EvolutionCo/static/css/main.a8a6c06e.css",
-    "main.js": "/EvolutionCo/static/js/main.469ba8df.js",
+    "main.css": "/EvolutionCo/static/css/main.6cb18d6e.css",
+    "main.js": "/EvolutionCo/static/js/main.39a40b60.js",
     "static/media/banner-bg.png": "/EvolutionCo/static/media/banner-bg.fa836a9a6bfa3dc1f229.png",
     "static/media/contact.png": "/EvolutionCo/static/media/contact.188008058f9957b95193.png",
     "static/media/approach.png": "/EvolutionCo/static/media/approach.ea8249f0255c50bae32c.png",
@@ -24,11 +24,11 @@
     "index.html": "/EvolutionCo/index.html",
     "static/media/slick.woff": "/EvolutionCo/static/media/slick.295183786cd8a1389865.woff",
     "static/media/hamburger.svg": "/EvolutionCo/static/media/hamburger.334a9cabd10a03ab5f045a41882509df.svg",
-    "main.a8a6c06e.css.map": "/EvolutionCo/static/css/main.a8a6c06e.css.map",
-    "main.469ba8df.js.map": "/EvolutionCo/static/js/main.469ba8df.js.map"
+    "main.6cb18d6e.css.map": "/EvolutionCo/static/css/main.6cb18d6e.css.map",
+    "main.39a40b60.js.map": "/EvolutionCo/static/js/main.39a40b60.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8a6c06e.css",
-    "static/js/main.469ba8df.js"
+    "static/css/main.6cb18d6e.css",
+    "static/js/main.39a40b60.js"
   ]
 }
