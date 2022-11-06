@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/EvolutionCo/static/css/main.a8a6c06e.css",
+    "main.js": "/EvolutionCo/static/js/main.469ba8df.js",
+    "static/media/banner-bg.png": "/EvolutionCo/static/media/banner-bg.fa836a9a6bfa3dc1f229.png",
+    "static/media/contact.png": "/EvolutionCo/static/media/contact.188008058f9957b95193.png",
+    "static/media/approach.png": "/EvolutionCo/static/media/approach.ea8249f0255c50bae32c.png",
+    "static/media/sustain-6.png": "/EvolutionCo/static/media/sustain-6.696c5d9c483401b6353c.png",
+    "static/media/sustain-5.png": "/EvolutionCo/static/media/sustain-5.dc5ececfe7fbd5251f06.png",
+    "static/media/sustain-3.png": "/EvolutionCo/static/media/sustain-3.08bc279159593f26184b.png",
+    "static/media/approach_slider.png": "/EvolutionCo/static/media/approach_slider.fb8a304cba10ed7a48a6.png",
+    "static/media/sustain-2.png": "/EvolutionCo/static/media/sustain-2.3db5e711f3d2f2cc6743.png",
+    "static/media/sustain-7.png": "/EvolutionCo/static/media/sustain-7.3db5e711f3d2f2cc6743.png",
+    "static/media/legislative.png": "/EvolutionCo/static/media/legislative.db41a1f7d3dc1c2e8236.png",
+    "static/media/sustainability.png": "/EvolutionCo/static/media/sustainability.de88d3c050cf45764887.png",
+    "static/media/initiatives.png": "/EvolutionCo/static/media/initiatives.7925e05c5dd60e5100da.png",
+    "static/media/community.png": "/EvolutionCo/static/media/community.bc477d8fd41dccb5b6e9.png",
+    "static/media/programs.png": "/EvolutionCo/static/media/programs.9ab34dd0fbccfdb9d86e.png",
+    "static/media/hccb-logo.png": "/EvolutionCo/static/media/hccb-logo.30c4c10c9ab38a8afb84.png",
+    "static/media/events.png": "/EvolutionCo/static/media/events.09cd8236b63b0c0c46bd.png",
+    "static/media/slick.svg": "/EvolutionCo/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/EvolutionCo/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/EvolutionCo/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/EvolutionCo/index.html",
+    "static/media/slick.woff": "/EvolutionCo/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/hamburger.svg": "/EvolutionCo/static/media/hamburger.334a9cabd10a03ab5f045a41882509df.svg",
+    "main.a8a6c06e.css.map": "/EvolutionCo/static/css/main.a8a6c06e.css.map",
+    "main.469ba8df.js.map": "/EvolutionCo/static/js/main.469ba8df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8a6c06e.css",
+    "static/js/main.469ba8df.js"
+  ]
+}
